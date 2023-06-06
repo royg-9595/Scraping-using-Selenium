@@ -8,3 +8,9 @@ Dependicies:-
 3. Download chrome web browser if you dont have.
 4. Download chrome drivers from the following link:- https://chromedriver.chromium.org/downloads
 5. Thats enough you are good to go!
+
+
+Note:-
+
+During the execution, chrome will pop up automatically. Don't worry it's a part of program. It will run throughout the program.
+We can modify the code by not using the chrome to run on desktop too. So that we can save time by excluding css and unnecessary stuff.
